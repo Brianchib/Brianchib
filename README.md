@@ -1,5 +1,23 @@
-# 💫 About Me:
-What I'm Currently Working On<br>I'm building an AI-powered content management system (CMS) that uses OpenAI's GPT models to help users generate and edit articles more efficiently. The project's goal is to streamline the content creation workflow and offer personalized suggestions in real-time.<br><br>I am also maintaining and scaling a large-scale e-commerce platform, focusing on enhancing its core backend infrastructure to handle increased traffic and data complexity.<br><br>What I'm Currently Learning<br>I'm currently diving deep into Next.js to better understand server-side rendering and static site generation for building high-performance React applications.<br><br>I'm also exploring new techniques in vector databases to improve the efficiency and accuracy of my AI-powered applications.<br><br>Beyond the Code 🎮⚽️🥁<br>When I'm not building applications, you can find me:<br><br>Playing video games 🎮<br><br>Watching sports, especially football ⚽️<br><br>Watching movies<br><br>Visiting family and friends back home in Nigeria<br><br>Playing the drums 🥁
+# 👋 Hi, my name is Brian  
+
+## 💫 About Me  
+I’m a **Software Engineer** with 5 years of experience building **scalable web applications**.  
+- ⚡ Specialize in **PHP (backend)** and **React (frontend)**  
+- 🤖 Experienced in **AI integration** using OpenAI GPT for smarter user experiences  
+- 🗄️ Skilled in **database optimization** & **secure authentication**  
+- 🚀 Focused on performance, scalability, and user satisfaction  
+
+## 🌱 Currently  
+- Building an **AI-powered CMS** to streamline content creation ✍️🤖  
+- Scaling a **large e-commerce platform** to handle high traffic 📈  
+- Exploring **Next.js** (SSR & SSG) and **vector databases** for AI apps 🔍  
+
+## 🎮 Beyond the Code  
+- Playing video games 🎮  
+- Watching football ⚽️ & movies 🎬  
+- Visiting family & friends in Nigeria 🌍  
+- Playing the drums 🥁  
+
 
 
 ## 🌐 Socials:
