@@ -1,7 +1,6 @@
-# 👋 Hi, my name is Brian  
-
-## 💫 About Me  
-I’m a **Software Engineer** with 5 years of experience building **scalable web applications**.  
+# 👋 Hi, I am Brian  
+  
+A **Software Engineer** with 5 years of experience building **scalable web applications**.  
 - ⚡ Specialize in **PHP (backend)** and **React (frontend)**  
 - 🤖 Experienced in **AI integration** using OpenAI GPT for smarter user experiences  
 - 🗄️ Skilled in **database optimization** & **secure authentication**  
